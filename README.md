@@ -1,1 +1,2 @@
-I always change my tag on Discord. <@167596257769029632>
+For business and other inquiries:
+@phoenix56 on Discord
