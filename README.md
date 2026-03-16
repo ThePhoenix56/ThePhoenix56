@@ -1,7 +1,8 @@
 Mainly a fullstack web developer with basic to intermediate knowledge in other programming languages.
 
 For business and other inquiries:
-https://img.shields.io/badge/%40phoenix56%20on%20Discord-black?logo=discord&link=http%3A%2F%2Fdiscord.com%2Finvite%2FxjMycDx2
+![Discord](https://img.shields.io/badge/%40phoenix56%20on%20Discord-black?logo=discord&link=http%3A%2F%2Fdiscord.com%2Finvite%2FxjMycDx2)
+
 <hr>
 <h1>Environments, tools & frameworks I work with</h1>
 
