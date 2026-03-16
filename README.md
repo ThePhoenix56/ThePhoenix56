@@ -10,6 +10,7 @@ https://img.shields.io/badge/%40phoenix56%20on%20Discord-black?logo=discord&link
 
 ### Languages
 Whilst I'm native in ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000), I have basic to intermediate knowledge in the following languages:
+<br>
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-%23000080?logo=lua) ![LuaU](https://img.shields.io/badge/LuaU-black?logo=luau)
 
 ### Databases
