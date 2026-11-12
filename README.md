@@ -17,3 +17,9 @@ Whilst I'm native in ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1
 
 ### Databases
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+
+### Cloud
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-gray?logo=digitalocean) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-orange?logo=google-cloud) ![Custom VPS / physical servers](https://img.shields.io/badge/Custom_VPS_/_physical_servers-black?logo=gnometerminal)
+
+### AI
+[!Claude](https://img.shields.io/badge/Claude-gray?logo=claude) ![Gemini](https://img.shields.io/badge/Gemini-blue?logo=googlegemini) ![Copilot](https://img.shields.io/badge/Copilot-black?logo=githubcopilot)
