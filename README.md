@@ -22,4 +22,4 @@ Whilst I'm native in ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-gray?logo=digitalocean) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-orange?logo=google-cloud) ![Custom VPS / physical servers](https://img.shields.io/badge/Custom_VPS_/_physical_servers-black?logo=gnometerminal)
 
 ### AI
-[!Claude](https://img.shields.io/badge/Claude-gray?logo=claude) ![Gemini](https://img.shields.io/badge/Gemini-blue?logo=googlegemini) ![Copilot](https://img.shields.io/badge/Copilot-black?logo=githubcopilot)
+![Claude](https://img.shields.io/badge/Claude-gray?logo=claude) ![Gemini](https://img.shields.io/badge/Gemini-blue?logo=googlegemini) ![Copilot](https://img.shields.io/badge/Copilot-black?logo=githubcopilot)
